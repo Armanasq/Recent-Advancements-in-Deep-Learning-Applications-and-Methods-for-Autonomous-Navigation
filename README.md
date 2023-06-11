@@ -9,14 +9,6 @@ This comprehensive review article surveys recent advancements in deep learning a
 
 ---
 
-##### Activation Functions
-
-
-<img id="myImg" src="/activation_functions.png">
-
-
-<img id="myImg" src="/activation_function_compare.png">
-
 
 | Date | Journal or Conference | Title |
 |------|-----------------------|-------|
