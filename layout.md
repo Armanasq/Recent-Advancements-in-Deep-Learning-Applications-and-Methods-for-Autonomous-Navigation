@@ -1,4 +1,3 @@
-figures/mish
 figures/MK21
 figures/nn
 figures/oxiod
