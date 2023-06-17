@@ -1,4 +1,3 @@
-figures/architecture-rnn-ltr
 figures/bidirectional
 figures/broad
 figures/broad_RIANN_Pitch_Error
