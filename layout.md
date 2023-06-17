@@ -1,4 +1,3 @@
-figures/MK21
 figures/nn
 figures/oxiod
 figures/pooling
