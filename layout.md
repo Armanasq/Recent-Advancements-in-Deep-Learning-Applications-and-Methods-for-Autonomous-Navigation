@@ -1,4 +1,3 @@
-figures/ridi
 figures/ronin
 figures/sassari
 figures/TCN
