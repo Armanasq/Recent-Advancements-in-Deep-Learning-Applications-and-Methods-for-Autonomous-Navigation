@@ -1,4 +1,3 @@
-figures/lrfinderlstm
 figures/mish
 figures/MK21
 figures/nn
