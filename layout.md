@@ -1,4 +1,3 @@
-figures/causal
 figures/Error
 figures/Error_Derivative
 figures/lrfinderlstm
