@@ -1,3 +1,2 @@
-figures/TCN
 figures/time_window
 figures/tstick
