@@ -1,5 +1,3 @@
-figures/Error
-figures/Error_Derivative
 figures/lrfinderlstm
 figures/mish
 figures/MK21
