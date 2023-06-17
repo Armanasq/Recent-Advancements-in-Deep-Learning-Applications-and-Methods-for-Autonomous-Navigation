@@ -1,4 +1,3 @@
-figures/oxiod
 figures/pooling
 figures/ridi
 figures/ronin
