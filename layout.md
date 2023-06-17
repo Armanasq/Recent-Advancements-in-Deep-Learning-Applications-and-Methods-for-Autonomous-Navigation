@@ -1,4 +1,3 @@
-abstract.html
 data/review/review.pdf
 figures/All_Error
 figures/architecture-rnn-ltr
