@@ -1,4 +1,3 @@
-figures/nn
 figures/oxiod
 figures/pooling
 figures/ridi
