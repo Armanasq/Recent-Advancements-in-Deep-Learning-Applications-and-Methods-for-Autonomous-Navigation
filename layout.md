@@ -1,4 +1,3 @@
-figures/All_Error
 figures/architecture-rnn-ltr
 figures/bidirectional
 figures/broad
