@@ -1,4 +1,3 @@
-figures/bidirectional
 figures/broad
 figures/broad_RIANN_Pitch_Error
 figures/broad_RIANN_Roll_Error
