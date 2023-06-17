@@ -1,7 +1,3 @@
-figures/broad
-figures/broad_RIANN_Pitch_Error
-figures/broad_RIANN_Roll_Error
-figures/broad_RIANN_Total_Error
 figures/causal
 figures/Error
 figures/Error_Derivative
