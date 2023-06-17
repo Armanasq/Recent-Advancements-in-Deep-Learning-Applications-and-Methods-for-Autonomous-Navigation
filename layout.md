@@ -1,4 +1,3 @@
-figures/ronin
 figures/sassari
 figures/TCN
 figures/time_window
