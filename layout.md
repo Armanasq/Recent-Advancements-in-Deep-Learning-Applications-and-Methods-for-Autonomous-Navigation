@@ -1,4 +1,3 @@
-figures/pooling
 figures/ridi
 figures/ronin
 figures/sassari
